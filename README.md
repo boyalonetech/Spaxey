@@ -1,8 +1,6 @@
 # Spaxey
 
-# Spaxey
-
-![Spaxey Logo](./logo.png)  
+![Spaxey Logo](./brand.webp)  
 
 **Spaxey** is a cutting-edge platform that helps teams and businesses streamline outreach, communication, and analytics. With Spaxey, you can manage your campaigns, track results, and engage with your audience effortlessly.  
 
